@@ -1,0 +1,28 @@
+# HuggingFace Ecosystem
+transformers>=4.36.0
+datasets>=2.14.0
+evaluate>=0.4.0
+sentence-transformers>=2.2.0
+
+# PyTorch Ecosystem
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data Science & Visualization
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+
+
+# Environment & Configuration
+python-dotenv>=1.0.0
+
+# Jupyter Support
+ipython>=8.12.0
+ipykernel>=6.22.0
+
+peft
+trl
+torch
+datasets
+transformers
